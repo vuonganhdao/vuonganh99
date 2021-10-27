@@ -1,0 +1,18 @@
+.container {
+  border: 2px solid #ccc;
+  width: 300px;
+  padding: 30px 25px;
+  margin: 0 auto;
+}
+
+h3 {
+  margin-top: 0;
+  text-align: center;
+  color: tomato;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
